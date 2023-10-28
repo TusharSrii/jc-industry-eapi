@@ -11,7 +11,7 @@ The RAML design strictly adheres to best practices, ensuring optimal quality and
 
 Subsequently, a new project named "jc-industry-eapi" was created, and the RAML was retrieved from the Design Center. After optimizing the project for production, externalizing properties, and applying best practices, the API was successfully deployed to CloudHub.
 
-In the API Manager, I implemented the 'client_id enforcement policy' and 'Rate limiting policy' to enhance security and control access. Additionally, the API was synchronized using API autodiscovery.
+In the API Manager, implemented the 'client_id enforcement policy' and 'Rate limiting policy' (three requests every six seconds) to enhance security and control access.
 
 Attaching below the Postman collection for the api which is deployed on cloudhub to test and review.<br />
 [jc-mulesoft-industry-eapi-CH.postman_collection.json](https://github.com/TusharSrii/jc-industry-eapi/files/13196107/jc-mulesoft-industry-eapi-CH.postman_collection.json)
