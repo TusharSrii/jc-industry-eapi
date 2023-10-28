@@ -13,5 +13,14 @@ Subsequently, a new project named "jc-industry-eapi" was created, and the RAML w
 
 In the API Manager, I implemented the 'client_id enforcement policy' and 'Rate limiting policy' to enhance security and control access. Additionally, the API was synchronized using API autodiscovery.
 
-Attaching the Postman collection for the api which is deployed on cloudhub to test and review.
+Attaching below the Postman collection for the api which is deployed on cloudhub to test and review.<br />
 [jc-mulesoft-industry-eapi-CH.postman_collection.json](https://github.com/TusharSrii/jc-industry-eapi/files/13196107/jc-mulesoft-industry-eapi-CH.postman_collection.json)
+<br />
+<br />
+
+
+![api-manager](https://github.com/TusharSrii/jc-industry-eapi/assets/60851515/02b770ba-3b7b-4101-9851-599aa5c875bc)
+<br />
+![Screenshot 2023-10-28 204828](https://github.com/TusharSrii/jc-industry-eapi/assets/60851515/77dbdd31-1e9f-4309-a80b-fcc3b132bde5)
+<br />
+![Screenshot 2023-10-28 204902](https://github.com/TusharSrii/jc-industry-eapi/assets/60851515/081a0114-5422-4592-bd77-9cc8c7374710)
